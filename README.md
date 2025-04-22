@@ -14,7 +14,7 @@ Este proyecto utiliza el modelo YOLOv8 de [Ultralytics](https://github.com/ultra
 
 ## 📦 Requisitos
 
-Asegúrate de tener Python 3.8+ instalado y los siguientes paquetes:
+Tener Python 3.8+ instalado y los siguientes paquetes:
 
 ```bash
 pip install opencv-python ultralytics

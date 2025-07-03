@@ -2,7 +2,6 @@
 
 Este proyecto utiliza el modelo YOLOv8 de [Ultralytics](https://github.com/ultralytics/ultralytics) para realizar detección de objetos en tiempo real a través de la cámara web utilizando OpenCV.
 
-## 📸 Ejemplo de Funcionamiento
 
 <img src="https://user-images.githubusercontent.com/placeholder.gif" alt="Demo YOLOv8" width="600"/>
 
